@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667871906100",
+    "firebase_url": "https://newsapp-eeecb.firebaseio.com",
+    "project_id": "newsapp-eeecb",
+    "storage_bucket": "newsapp-eeecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667871906100:android:76af88d0a75a5e460ebd61",
+        "android_client_info": {
+          "package_name": "com.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667871906100-vg86ab943bf0u4iihhep4m67uompr6v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDae_-btShE5HvaqRUjwQRXfWx0_86ag6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667871906100-vg86ab943bf0u4iihhep4m67uompr6v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
